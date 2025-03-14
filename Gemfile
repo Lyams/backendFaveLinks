@@ -50,6 +50,7 @@ end
 
 group :development do
   gem "graphiql-rails"
+  gem "byebug"
 end
 
 gem "graphql", "~> 2.4"
