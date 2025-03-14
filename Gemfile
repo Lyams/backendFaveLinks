@@ -47,3 +47,9 @@ group :development, :test do
 
   gem "faker"
 end
+
+group :development do
+  gem "graphiql-rails"
+end
+
+gem "graphql", "~> 2.4"
